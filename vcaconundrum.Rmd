@@ -1,0 +1,119 @@
+---
+title: "The Regional Vulnerability Databank"
+subtitle: "A Concept"
+output:
+  html_document: default
+  always_allow_html: true
+---
+
+>The term 'Vulnerability' as used in this context defines Natural, Built or Psychosocial conditions in the geographies registered within  [CDEMA](https://www.cdema.org/about-us/what-is-cdema)  
+
+
+## The resiliency vulnerability conundrum
+
+In the Climate Change context we all want the Caribbean Basin to have the best/highest level of resiliency possible. Logically we'd obtain data that provides the best possible picture of (a community's) vulnerabilities and embed fixes or measures where these can do the most good. 
+
+Historically, individual Caribbean states have attended to their various domains using approaches pegged to their fiscal resources. Or, if they were connected to bigger countries, drew on old relationships in time of need. Much has changed. New climate norms are affecting all geographies with little care for the flag stuck on any. As such help comes to the Caribbean only after 'home' concerns are met.
+
+Thus today's Caribbean - its peoples, while still valued by our friends to the north must literally look to our own house/s as the climate norms of millennia, shift. The nature of the problem is such that one day in the future self help might be the only help possible. Prudence suggests we take a pragmatic approach.
+
+Science tells us that 'Knowing what is there' is an imperative early step in the changing or rebuilding of anything. As we pit the collective will against Climate Change, the Caribbean does want to ready its housing stock against (*well known*) factors that threaten the people in them, in times of high wind, heavy water, heat and other outputs of a now unpredictable nature.     
+
+<!-- ## Why Vulnerability and Capacity Assessments -->
+
+## Enter the humble VCA 
+
+>Vulnerability and Capacity Assessments by popular definition is a process of participatory investigation designed to assess and address major risks affecting communities. It aims to determine people’s vulnerability to those risks and their capacity to cope and recover from a disaster. 
+
+VCA's make it possible for benefactors to work with vulnerable communities to:
+
+  - Help with understanding the hazards to be faced       
+  - Assist in identifying the necessary measures to improve the situation, based on local skills, knowledge and initiatives.
+  
+## Point of departure
+
+*If you're reading this document it means you've been participating in the CANARI's implemented Training of Trainer's workshop titled "Building Local Resilience to Climate Change"*.
+
+It means too you want to take [*sic*]learnings from the afore-mentioned workshop and put it to use for the benefit of Caribbean communities within the zones historically prone to hurricane impact. 
+
+You'd also have indicated interest in building capacity within your home organisation as pertains to carrying out VCA's.
+
+Thing is, civil society organisations aren't all as they're cracked up to be. Governments more and more are using the consultative approach to woo this sector into compliance, to rubberstamp initiatives that aren't always perfect matches with the tenets of sustainable development - the core of the modern civicus movement. 
+
+In some ways the very purpose of civil society is being compromised due to the dependencies foisted on us by our need to foster that parent/child relationship that comes from working with government.   
+
+## Are CSO's worth the while?
+
+At the root of our dependency lies our need for money. Money to effect mission, build capacity and not least to carry out the simplest of works within our various catchments. 
+
+Obtaining money though, is now a minefield of having suitable cause, attracting legitimate sponsors and being able to field skills and other assorted capacities to do justice to money when and if it is gotten.
+
+## The way foward for Climate minded CSO's
+
+
+>The recent Trainer of Trainer's workshop should be viewed as an opportunity for us (*Class of June 2023*?) to combine our skills to effect shift on a scale that does justice to the effort expended by the initial funders GCF IAF, as well as the CANARI. 
+
+Arguably **Need** will be served if there was a common regional databank of participatory VCA's available to governments And to aid dispensation agencies or groups - Including but not limited to; multilateral agencies or ad-hoc sponsors seeking reassurance that [their] contributions do in fact get to the best possible place. 
+
+To clarify. In times of stress many offers aren't put to best use - may not even be accessed given the lack of available data. Many post-event accounts speak of shortfalls in supply and 'guestimates' for demand.
+
+In short while the CDEMA model hinges on central management during emergencies, the quality of vulnerability [class] data a country's Emergency Operations Center (EOC) must wield will benefit if CSO's were organisationally sure what their roles/contributions were.     
+
+In non-event times participant CSO's will be able to selectively work together to elevate VCA literacy on specific subjects 
+
+  - like (nature-based adaptation using [e.g bamboo, vetiver ...),   
+  
+  - like neighbour (peer) reviewing/proofing local action-planning exercises with a friendly but remote and equally skilled CSO in another/remote  place. 
+
+**_Note_**. This last option provides an alternative to 'burnout' in a home community. Prepares localities also [??] for a civilian option should the unwelcome but real possibility of an island losing total connectivity occur.
+
+## How will this concept work?
+
+Ideally the stack of VCA's should be carried out by a group drawn from (Class of June 2023) - spanning communities from [yet to be defined] locales among 'hazard prone' states - as visualised in the graphic beneath taken from the CDEMA website.
+
+![Red markers ID possible participants.](https://drive.google.com/uc?export=view&id=1KDls5oYIBZJQJpagwTf5xTsM_2JoM0dM)
+
+## Key output. The Portal
+
+Along with the raft of low-level benefits that will be identified in the drafting of the proposal (odds are we know them) the vehicle by which this Vulnerability Databank is a digital portal based on the OpenSource ethos (i.e freeware) that can serve text, pictures, video and shared folders. Which at end of day is what .shp, .kml, .uml, .zip and similar files are .... *much more on this*...
+
+
+>Portals for our case use are database driven Web-based screen interfaces that allow a mix of above-mentioned content that is free, partially free (i.e registration is required), or with scales of selectivity beyond that  - as may be determined.
+
+Contributors will be [Caution: just example] allocated a completely functional website that is in fact a subdomain of the portal. Therefore if the portal URL is 'www.highport.net', Antigua say, gets a website with a URL 'uniquelevel1.highport.net'. If there are 20 countries participating we'll see 'uniquelevel2.highport.net' going all the way to 'uniquelevel20.highport.net'.
+
+In this regard its possible to use a common database (or other mechanisms) so one registrant can access other 'uniquelevels', or the main 'highport.net' website.
+
+```{r highport, echo=FALSE}
+
+DiagrammeR::grViz('highport.dot')
+
+```
+
+The weakest point of the portal is Usability; contributors may required assistance to create, upload, share update or even retrieve content. These aspects are also  addressable by tutorials, sandboxes and the like - but are solvable given the ease with which Open Source software can be deployed.  
+
+
+### Interested?
+
+Please insert particulars as indicated in sheet beneath. Press TAB to create a new row
+
+|**Country code**|**Organisation**|**Key contact**|**Email**|
+|:-----|:-----|:-----|:-----|
+|T&T|Environment Tobago|Sean McCoon|sean.mccoon@environmenttobago.net|  
+|*Ditto*|*Ditto*|Bertrand Bhikarry|bertrand@environmenttobago.net|
+|||||
+
+
+
+## The Green Climate Fund and similar ..
+
+Are high probability sources of grant funds for this idea. We know the GCF thinks Resiliency is a key component of adapting to climate change **and** they have partially funded the Trainer of Trainers course as part of the bigger "Enhancing Caribbean Civil Society’s Access and Readiness for Climate Finance" along and the Inter-American Foundation funded project, "CSOs for Disaster Resilience".
+
+Worried we may not know how? We know the GCF is open to providing technical support for project they want to fund and let's not forget CANARI may be interested in being part of our future works - given their investment in us over the years.
+
+Concerned we lack mandate? We already know we are qualified representatives trusted by our communities
+
+Consequently we want to ensure our organisations can take care of our various 'constituencies' just as we want to ensure our youth will find meaningful engagement in these very non-profits going forward
+
+*Please feel free to comment to aid with development of this thought*
+
