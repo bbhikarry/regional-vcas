@@ -1,0 +1,34 @@
+---
+title: 'An Environment Tobago brief'
+abstract: 'This document offers guidelines for assessing the risks related to the potential impacts of climate change. It continues our description of the development framework of voluntary risk assessment in the context of climate change. It can be used for
+  assessing both present and nearterm climate change risks. Risk assessment documentation arising out of this work can provide a high level introduction for climate change adaptation planners in small island states.'
+---
+
+
+```{r, echo =FALSE}
+ipcc <- "Intergovernmental Panel on Climate Change"
+```
+
+
+## The Impact Chain
+
+>A climate impact chain (impact chain for short) provides a way of representing how a given climate stimulus (e.g torrential rain) propagates through a system of interest (e.g a local community) via the direct and indirect impacts it entails. 
+
+ <!-- System impact chain diagramm hoes here  use https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-3-030-86211-4_25/MediaObjects/513654_1_En_25_Fig3_HTML.png -->
+ 
+ Used in the framework to systematically conceptualise climate risks in line with the `r ipcc` (IPCC) risk assessment concept are so called impact chains. Impact chains are cause-effect chains that illustrate all major factors and processes leading to a specific climate risk and assign these factors to the components hazard, vulnerability, and exposure. 
+ 
+Impact chains are usually developed in a participatory manner together with stakeholders and experts. Impact chains help to better understand, systemise and prioritise the factors that drive climate impact related risks in a specific system of concern. Impact chains can foster the discussion on adaptation demand already in an early, qualitative stage of a risk assessment. 
+
+<!---diagram specific impact on a target area using rain ---->
+
+```{r impactchain, echo=FALSE, out.width='100%'}
+knitr::include_graphics("https://drive.google.com/uc?export=view&id=1Vozajr-pxrgj2xWNB5MhfoJA_dWATmu2")
+```
+ 
+For an operational risk assessment, impact chains can serve as a basis for the selection of appropriate methods such as models, indicators, review- or expert based assessment. Often, a combination of this methods is recommendable. 
+
+### Disclaimer
+
+This brief makes no claim to authority in matters Climate. It provides an expansion of notes taken during the trainer of trainers training in the CANARI implemented Regional Training of Trainer workshop (Port Of Spain, June 20-23, 2023) as part of the “Building Local Resilience to Climate Change” project. Over 40 civil society representatives from 12 Caribbean countries learned about key concepts, practical tools and approaches and best practices for assessing vulnerability, local action planning and community-based and ecosystem-based solutions to build resilience.
+
