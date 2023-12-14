@@ -1,0 +1,82 @@
+---
+title: "Exposing Vulnerability"
+subtitle: An Environment Tobago brief
+---
+
+## Why and What
+
+Anthropogenic Climate Change is no longer a horizon discussion. It is here and seems set to disrupt many of the ways in which we in the global village work and live. Given there are no fixed paths to get out of this bind - except for keeping the rate of emissions aligned with the [RCP 1.5 model]("https://ar5-syr.ipcc.ch/topic_futurechanges.php#box_2_2"), measures to affect positive thinking and encourage change in negative behaviour are premium.
+
+Indeed, yesterday today and for the foreseeable future, our leaders in the chase to prepare populations to Adapt to Climate Change are themselves guided by the output of thousands of workers in the field. Let's look at some tools used to generate the information that chases Adaptation in ways that leave no one behind.   
+
+### Disclaimer
+
+This brief makes no claim to authority in matters Climate. It provides an expansion of notes taken during the trainer of trainers training in the CANARI implemented Regional Training of Trainer workshop (Port Of Spain, June 20-23, 2023) as part of the “Building Local Resilience to Climate Change” project. Over 40 civil society representatives from 12 Caribbean countries learned about key concepts, practical tools and approaches and best practices for assessing vulnerability, local action planning and community-based and ecosystem-based solutions to build resilience.
+
+## The Climate Vulnerability Analysis
+
+In the general scheme of things we should accept unconditionally - as the science community has, that human driven climate change carries with it a reality veering further and furthe away from the old normals. Meaning we of the tropics need to adapt to situations that may be warmer, drier, wetter and windier at times. Further to which, methods for growing food and managing foodstock will of necessity need to change. The common term in global usage for this 'change' is Adaptation.
+
+Unfortunately the process to effect meaningful shifts in the way people do things is not exactly straightfoward - there is no set approach to fasttrack populations, communities, or even individuals to modify behaviours. For those tasked with putting Adaptation into gear the thing to do is; choose a credible approach and stick to it ensuring it's not altogether incompatible with the local thinking. Not that there wouldn't be challenges. The following (non-exhaustive) list drawn from the collective experience of climate action actors across the globe, provides the commonest hurdles. 
+
+  1. Lack of political commitment: Political decision-makers are not always willing or poised to press ahead with Adaptation.
+ 
+      - Regarding 'poise'. Unclear or inappropriate distribution of competencies/responsibilities or insufficient coordination: Because the issue of climate change is relatively new, the corresponding problems and potential solutions often cannot be clearly assigned to specific actors, sectors or levels of government.
+
+  1. Insufficient cooperation: Political actors demonstrate little or no cooperation with one another and/or other administrative levels.
+  
+  1. Scarcity of resources: Financial and/or personnel resources are insufficient.
+
+  1. Scientific uncertainty: Climate projections, the anticipated effects of climate change, or the costs and benefits of potential measures can only be specified to a certain extent; it is not possible to predict exact data, figures, or timing.
+
+  1. Insufficient knowledge transfer and networking: The decision-makers involved make little or no reference to existing knowledge and prior experience. Often this is due to the lack of a connection between science and politics.
+  
+  1. In order to set a political process in motion, the related problems and issues must be recognised as important at the political level. This step often fails due to the following obstacles:   
+  
+      - Insufficient awareness or a lack of awareness: When the relevant decision-makers are unaware of the need for adaptation, the corresponding issues and policies will not even reach the political agenda.
+      
+      - Disputed priorities: When it is difficult to estimate the urgency and effectiveness of potential adaptation measures, other issues are often prioritised.
+      
+      - Unclear added value: The added value created by adaptation strategies and measures is frequently unclear.
+
+<!---
+Table of Contents
+INTRODUCTION .................................................................... 5
+Objectives, Structure, and Use of the Handbook ............................. 6
+Climate Change and Adaptation ............................................... 11
+Challenges in the Adaptation Process ........................................ 12
+PART 1 — The Phases of Adaptation ........................................ 15
+Phase I: Creating a Foundation for Adaptation .............................. 19
+Phase II: Identifying Risks and Finding Solutions ............................ 27
+Phase III: Implementing and Monitoring Actions ............................ 37
+-->
+
+Which paves the way for Climate Vulnerability Assessments (VCA). From the perspective of the non-profit sector - often leaders in requests for change within Trinidad and Tobago, a credible science-derived argument is key when seeking adjustments to policy, law or practise. It helps also, if the formal (structured) argument in this case the VCA, is derived from and considers local community lore, knowledge and geography. Also, importantly, the planned assessment should select a historic date range (Year X to Present date) from which data must be collected. 
+
+### What goes into the credible VCA? 
+
+A VCA focusses on climate trends for one, people or population behaviours for the other. As we speak, climate data is becoming increasingly easier to find and access thanks to efforts by the meteorological, forestry and ocean sector actors. A lot of what they do polarises around recording and sharing weather aspects which eventually is collated by [climate modellers](https://ncas.ac.uk/learn/what-is-a-climate-model/).  
+
+
+History (sometimes referred to as the historical timeline) can be determined from a key event (social/or meteorological that impacted negatively or positively on the area under consideration for the vulnerability assessment. There are ways to achieve efficient results further into the VA exercise if the timeline is still within living memory. For instance in Tobago, Hurricane Flora (30th September 1963) is still vivid in the minds of the community elders, which sees them keen to participate in surveys (a VA tool) as Assessment progresses.    
+
+Public consultation provides insight into the target area and provides a useful approach for gaining/understanding local perspective. Enter the structured interview or survey. Surveys though aren't exactly simple in that conversations - therefore the information gained, are highly subjective to the interviewees experience. Skill in note-taking is therefore prerequisite for the interviewer or her assistant when surveying.           
+
+Stakeholder conversations provide high value local insight as it/they allow key and relevant interests to convene for the call. It also adds a contemporary layer on historical timeline material, verifies aspects of the structured interviews and obtains buy-in from the community present for changes that may be desirable in the future.  
+
+Mapping is a useful VCA tool if the exercise seeks to encompass and display knowledge, lore and quantitative data from the relevant sources. Here, Geographic Information Services (GIS) has come into its own but for many, obtaining the licenses for proprietary software, learning to use the applications are big barriers that deter conventional use. Enter participatory mapping.
+
+Participatory GIS links input from unsophisticated but knowledgeable sources, draws on scientific observations from the key climate agencies (examples cited up top as met, forestry and ocean agencies) and displays them all on sheet, digital file or actual model. The prerequisites for a good participatory GIS session are people keen on contributing knowledge and lore, a facilitator to guide the process, some permanent markers of varying tip sizes and colors, soft string also in different colors (e.g crochet) and a big enough table to hold the output. 
+
+Depending on the budget of the VCA, facilitators can come to the GIS session with a printout of a Google/Open Map showing the target area. This can be a liability if the print border coordinates do not take in the geographies under assessment. Some facilitators use transparent plastic sheets over the print and sandwich the layers of information (in classes). Regardless, participatory GIS is an enthalling way to obtain and keep stakeholder enthusiasm during the VCA process.   
+
+Photo journals: Though mentioned far down this list the ubiquitous photo journal ranks quite high as a participatory tool. Images may be solicited from the public via the popular Internet channels - for which owners can retain credit.  Or in the case of truly exclusive content; payment if the budget allows. Photo journals can provide snippets for future works, enhance timeline changes, supplement reports and demystify the VCA output to those unfamiliar with the adaptation process.  
+
+
+Value chain (VC) analysis: Markets are critically important structures in building/enhancing resilience.<!--- (Impact chain framework) --> Conducting a value chain analysis in a market scenario within the target area (of a vulnerability assessment) can provide valuable insight on the community's strengths, weaknesses, challenges and opportunities. While this tool will require more input/assets than the five mentioned above, it offers a future/foward reward window for the area under study. The others do not, looking backward into the assessment timeline as it were.   
+
+Some observations on value chain assessments. Markedly different to the Supply Chain (SC), VC's seeks to add value to a product at every stage of its journey to market and then even after - By recycling the end product for example. By preparing a product for easier reuse even at design stage. Or designing a productfor faster organic breakdown (non-toxic) at end of life. Further to this and to elaborate on the aforementioned future/foward window, value chain analyses may expose hidden opportunity as well as risk. In a typical vulnerability assessment exercise space, the value change analysis totally assists with achieving the future vision of the community in a target area.  
+
+After any aspect of the vulnerability assessment is conducted debriefs by the VCA team are of critical importance as it provides a time for hidden, easily overlooked vulnerabilities or opportunities to surface.  
+
+Another framework to systematically conceptualise climate risks in line with the IPCC risk assessment concept are so called impact chains. Impact chains are cause-effect chains that illustrate all major factors and processes leading to a specific climate risk and assign these factors to the components hazard, vulnerability, and exposure. Impact chains are usually developed in a participatory manner together with stakeholders and experts. Impact chains help to better understand, systemise and prioritise the factors that drive climate impact related risks in a specific system of concern. Impact chains can foster the discussion on adaptation demand already in an early, qualitative stage of a risk assessment. For an operational risk assessment, impact chains can serve as a basis for the selection of appropriate methods such as models, indicators, review- or expert based assessment. Often, a combination of this methods is recommendable. 
